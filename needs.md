@@ -388,7 +388,7 @@ Note: the user journey of a service may be distinct for different types of progr
 
   [Create a Business Plan Step by Step](http://businessportal.sfgov.org/start/create-a-plan)
 
-      * http://businessportal.sfgov.org/start/finance-your-business
+  * http://businessportal.sfgov.org/start/finance-your-business
 
 
 **Tutorials**
@@ -400,7 +400,7 @@ Video tutorials on the HSA website with staff at their desks talking about their
 **Examples**
   * [Santa Clara Social Services Agency website ](https://www.sccgov.org/sites/ssa/Pages/ssa.aspx)
 
-      * Video ([here](https://www.youtube.com/watch?v=I_eKiiohWM0&feature=youtu.be)) showing how to apply for CalFresh (English & Vietnamese)
+  * Video ([here](https://www.youtube.com/watch?v=I_eKiiohWM0&feature=youtu.be)) showing how to apply for CalFresh (English & Vietnamese)
 
   * [NYC 311](http://www1.nyc.gov/311/)
 
