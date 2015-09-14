@@ -109,12 +109,15 @@ a {
  * Blockquotes
  */
 blockquote {
+    background-color: #efefef;
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
-    letter-spacing: -1px;
     font-style: italic;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+
 
     > :last-child {
         margin-bottom: 0;
