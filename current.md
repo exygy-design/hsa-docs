@@ -76,7 +76,7 @@ Clients already in the system become aware of additional resources and services 
 
 Clients are receiving services, but are dropped and then return for services.
 
-#### **Why It Matters:**
+#### Why It Matters:
 
 Human or technical error should not result in a client going without services.
 
@@ -116,10 +116,7 @@ Reaching clients who are older or disabled or lower-income who may not be comput
 
 Clients who are digitally literate can utilize online components of service offerings like eligibility screening and digital applications. They could stay more connected to what is happening with the HSA by following social media; and are able to take advantage of email and text notifications.
 
-
-
 * * *
-
 
 ## <a name="needs"></a>Needs
 
@@ -185,7 +182,7 @@ The technology HSA employees have available is difficult to use (eg: RedDot, VPN
 
 > "If you access the system through your phone your access is limited… can’t access policies or connect internally to our system… it’s a huge issue to me. “-Program Staff
 
-> "I would love to see VPN go away–or not being pushed offline. I spent half of the day at home trying and I can’t get on and I have wi-fi." -Program Staff*
+> "I would love to see VPN go away–or not being pushed offline. I spent half of the day at home trying and I can’t get on and I have wi-fi." -Program Staff
 
 > "(HSA Staff) have a hard time getting access outside of the building. The VPN drops off. We have access issues.We don’t have a lot of control over it “ -Program Leader
 

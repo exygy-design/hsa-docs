@@ -440,19 +440,19 @@ A specific need for feedback that HSA Executive Leadership expressed was to unde
 
 ### How to Fix It
 
-* **Helpfulness/Happiness Surveys**
+* **Helpfulness/Happiness Surveys**  
 
-    * Develop short surveys to track the helpfulness of an interaction with the HSA and how that experience made the user feel. This can be done online and over the phone with simple surveys asking people to rate their experience.
+  * Develop short surveys to track the helpfulness of an interaction with the HSA and how that experience made the user feel. This can be done online and over the phone with simple surveys asking people to rate their experience.
 
-* **Multiple Communication Channels**
+* **Multiple Communication Channels**  
+    
+  * Introducing multiple channels for communication (phone, online chat, text) allows the public to interact with the HSA in ways that easiest for them with the communication tools they access.
 
-    * Introducing multiple channels for communication (phone, online chat, text) allows the public to interact with the HSA in ways that easiest for them with the communication tools they access.
+  * **Text messaging:** Within HSA, Family and Child Services (FCS) staff communicate with their clients through text and [Promptly](http://www.promptly.io/) is being used in CalFresh and some other programs.
 
-    * **Text messaging:** Within HSA, Family and Child Services (FCS) staff communicate with their clients through text and [Promptly](http://www.promptly.io/) is being used in CalFresh and some other programs.
+  * **Email:** A local example of an accessible client feedback loop is Santa Clara website’s "email us" option. It has a drop down to pick which department a user would like to communicate with and their “feedback” button for quick comments to the Agency.
 
-    * **Email:** A local example of an accessible client feedback loop is Santa Clara website’s "email us" option. It has a drop down to pick which department a user would like to communicate with and their “feedback” button for quick comments to the Agency.
-
-    * See [Alameda County’s: Customers Automated Response System](https://alamedasocialservices.org/public/services/carsvru/carsweb.htm) as a work-around for MyBenefits CalWIN to communicate with clients more effectively.
+  * See [Alameda County’s: Customers Automated Response System](https://alamedasocialservices.org/public/services/carsvru/carsweb.htm) as a work-around for MyBenefits CalWIN to communicate with clients more effectively.
 
 * **Track Email Engagement**
 
@@ -494,7 +494,9 @@ Sharing information enables HSA to foster dialogue within and outside the Agency
 
         * Collaboration is important for improving the experiences of clients and community partners through technology. > "Sharing information between agencies. It’s challenging, but ideally it would be great.”-CBO forum feedback
 
-        * We heard from CBOs that shared access across programs would help them collaborate more with HSA and serve clients better. > "You almost need an intranet that other agencies could use. There is a lot of info that the public shouldn’t have access to or is not important. A private facing intranet for HSA and partner organizations to communicate to each other and access documents. The HSA could have a basic site for client needs and one to dive deep if you are different stakeholders." -CBO forum feedback
+        * We heard from CBOs that shared access across programs would help them collaborate more with HSA and serve clients better. 
+
+        > "You almost need an intranet that other agencies could use. There is a lot of info that the public shouldn’t have access to or is not important. A private facing intranet for HSA and partner organizations to communicate to each other and access documents. The HSA could have a basic site for client needs and one to dive deep if you are different stakeholders." -CBO forum feedback
 
 * **HSA & Clients**
 

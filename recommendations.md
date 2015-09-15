@@ -119,7 +119,6 @@ In regards to new staff and skills, we see the following Functional Skill Requir
 These five skills can be staffed in a variety of ways, not necessarily needing five new hires. Our most cost effective recommended staffing structure requires 2-3 new hires:
 
 1. **Product Owner** with strong marketing skills:
-
 * Content Strategy
 * Social Media/Marketing
 * Data Analysis
