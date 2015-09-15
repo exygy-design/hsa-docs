@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Current Landscape
-permalink: /current/
+title: Current Landscape Back
+permalink: /current-back/
 ---
 
 <ul id="mydiv" class="menu menu-fixed">
@@ -21,9 +21,9 @@ permalink: /current/
 </ul>
 
 
-## Intro
+## <a name="intro"></a>Intro
 
-> "The website is not utilized the way it should be for us. We just haven’t paid attention to the design of it. We haven’t focused on who we’re trying to reach, serving, the people in communities or even staff. I think we haven’t looked at essentials for the website serving people: accessibility, font, color, all of those elements you need for those populations we serve." - DAAS Executive Leadership*
+> "The website is not utilized the way it should be for us. We just haven’t paid attention to the design of it. We haven’t focused on who we’re trying to reach, serving, the people in communities or even staff. I think we haven’t looked at essentials for the website serving people: accessibility, font, color, all of those elements you need for those populations we serve." *- DAAS Executive Leadership*
 
 The San Francisco Human Services Agency (HSA) is a lifeline for 23% of San Franciscans, serving over 200,000 unique persons seeking food assistance, health care, elder care, job training, daycare, and other essential social services. Sfhsa.org serves as the proverbial *front door* to the agency with more than 30,000 unique visits to the website each month. The public facing website has the potential to provide information and services in a clear, helpful, effective way with the utmost dignity and respect for client experience.
 
@@ -31,18 +31,17 @@ The San Francisco Human Services Agency (HSA) is a lifeline for 23% of San Franc
 
 ## <a name="our-process"></a>Our Process
 
-We’ve talked to HSA representatives from The Department of Aging and Adult Services (DAAS), The Office of Early Care and Education (OECE), and The Department of Human Services (DHS), including the Information Technology Department (IT), Family and Children’s Services (FCS), Internal Affairs, and Executive Leadership. We’ve engaged HSA clients and Community Based Organizations (CBOs). The overwhelming response to the current website has been:
+We’ve talked to HSA representatives from The Department of Aging and Adult Services (DAAS), The Office of Early Care and Education (OECE), and The Department of Human Services (DHS), including the Information Technology Department (IT), Family and Children's Services (FCS),  Internal Affairs, and Executive Leadership. We’ve engaged HSA clients and Community Based Organizations (CBOs). The overwhelming response to the current website has been:
 
-> "The website is not suiting the agency or client needs. What can we do to fix it?"*
+> "The website is not suiting the agency or client needs. What can we do to fix it?"
 
-We’ve heard honest criticism from each of the above stakeholders. "*The website is dated." “The content is all over the place.” “Nobody takes responsibility.” “It’s impossible to navigate.”* Our research dug deep within the agency, analyzing the website traffic data and holding community forums at the San Francisco Public Library and at a local CBO (Arriba Juntos). We conducted comparative analysis of public agencies in the city, county, state, and beyond. Our process uncovered ideas about a future HSA website that has the potential to be an exemplar amongst public services agencies. These findings were the foundation for the document *[HSA Recommendations And Next Steps](https://docs.google.com/document/d/1_dGx7mEOc0AjDD_RiLr2MSUNVYHci8Vkp-KqwakhtKw/edit?usp=sharing)*
-
+We’ve heard honest criticism from each of the above stakeholders. "*The website is dated." “The content is all over the place.” “Nobody takes responsibility.” “It’s impossible to navigate.”* Our research dug deep within the agency, analyzing the website traffic data and holding community forums at the San Francisco Public Library and at a local CBO (Arriba Juntos). We conducted comparative analysis of public agencies in the city, county, state, and beyond. Our process uncovered ideas about a future HSA website that has the potential to be an exemplar amongst public services agencies.  These findings were the foundation for the document *HSA Recommendations.*
 
 * * *
 
 ## <a name="current-landscape"></a>Current Landscape
 
-HHSA has distinct Departments, The Department of Human Services (DHS) , The Department of Aging and Adult Services (DAAS), and the Office of Early Care and Education (OECE). These Departments serve specific client populations with discrete needs. OECE’s clients may overlap with the other Departments. HSA’s public-facing website, sfhsa.org, is a funnel for all clients to find information. Beyond information, few, if any, services are provided through the website; however, links to services exist, including MyBenefits CalWIN.
+HSA has two distinct Departments, The Department of Human Services (DHS) and The Department of Aging and Adult Services (DAAS), and the Office of Early Care and Education (OECE). The two Departments serve specific client populations with discrete needs. OECE’s clients may overlap with the two Departments. HSA’s public-facing website, sfhsa.org, is a funnel for all clients to find information. Beyond information, few, if any, services are provided through the website; however, links to services exist, including MyBenefits CalWIN.
 
 ### Goals and Objectives
 
@@ -76,7 +75,7 @@ Clients already in the system become aware of additional resources and services 
 
 Clients are receiving services, but are dropped and then return for services.
 
-#### **Why It Matters:**
+#### Why It Matters:
 
 Human or technical error should not result in a client going without services.
 
@@ -117,7 +116,6 @@ Reaching clients who are older or disabled or lower-income who may not be comput
 Clients who are digitally literate can utilize online components of service offerings like eligibility screening and digital applications. They could stay more connected to what is happening with the HSA by following social media; and are able to take advantage of email and text notifications.
 
 
-
 * * *
 
 
@@ -125,11 +123,11 @@ Clients who are digitally literate can utilize online components of service offe
 
 In order to fulfill HSA’s mission, the public facing website needs to be proactive with its accessibility. This includes, but is not limited to: multilingual language needs, content creation based on an audience appropriate literacy level, considerations of access to digital technology and tools (eg: mobile), digital literacy and familiarity with technology tools, and Section 508 compliance.
 
-Internally, a cohesive content strategy needs to be in place to unify the thousands of disparate web pages on sfhsa.org. The strategy will need a sustainable approach to editing and maintaining content so that is current and uniformly accessible and simple for clients to understand and use.
+Internally, a cohesive content strategy needs to be in place to unify the 37,000 disparate web pages on sfhsa.org. The strategy will need a sustainable approach to editing and maintaining content so that is current and uniformly accessible and simple for clients to understand and use.
 
-More details can be found in [Core Requirements For New HSA Website](https://docs.google.com/document/d/1X0QY7byN9IsqXZ9FWzYvsVqXL0z_tQayIAXHflWyoHk/edit?usp=sharing).
+More details can be found in [HSA](https://docs.google.com/document/d/1X0QY7byN9IsqXZ9FWzYvsVqXL0z_tQayIAXHflWyoHk/edit?usp=sharing)[ Immediate Website Needs](https://docs.google.com/document/d/1X0QY7byN9IsqXZ9FWzYvsVqXL0z_tQayIAXHflWyoHk/edit?usp=sharing).
 
-* * *
+---
 
 ## <a name="client-needs"></a>Client Needs
 
@@ -147,7 +145,7 @@ Data on search terms on sfhsa.org showed:
 
 There were 6,713 pages viewed on sfhsa.org related to this topic. Similar pages were also viewed.
 
-* * *
+---
 
 ## <a name="staff-needs"></a>HSA Staff Needs
 
@@ -159,35 +157,36 @@ At the monhly Agency Exective Staff meeting attended by Program Directors and Ma
 * Contact information
 * Notification of bidding or funding opportunities
 
-> "There are a bunch of things we haven’t thought through in ways people interact with us. One of the things is we get tons of calls to ask about people’s hours and where they are, whether their checks have been cut, their hours reported." - Executive Leadership
+> "There are a bunch of things we haven’t thought through in ways people interact with us. One of the things is we get tons of calls to ask about people's hours and where they are, whether their checks have been cut, their hours reported." - *Executive Leadership*
 
 The technology HSA employees have available is difficult to use (eg: RedDot, VPN). Some HSA employees recognise the value technology could have in reducing human error and thus allowing them to do their job more efficiently and effectively. However, learning and agreeing to use the existing system is uneven across the Agency.
 
-**What We Heard from HSA Employees:** **RedDot is difficult to use.**
+**What We Heard from HSA Employees:**
+**RedDot is difficult to use.**
 
-> "The overwhelming message is that what we are using sucks (to publish information on the website / content management)." -IT Leadership
+> "The overwhelming message is that what we are using sucks (to publish information on the website / content management)." *-IT Leadership*
 
-> "Reddot is very difficult to understand even though they (staff) go to training; mistakes are made." -Executive Leadership
+> "Reddot is very difficult to understand even though they (staff) go to training; mistakes are made." *-Executive Leadership*
 
 **Staff has Limited Tech Skills**
 
-> "An issue is there are many Programs. The level of interest and awareness varies; skills of staff to use basic elements is very uneven."-Executive Leadership
+> "An issue is there are many Programs. The level of interest and awareness varies; skills of staff to use basic elements is very uneven."*-Executive Leadership*
 
-> "We have technically limited staff. (Who) don’t know a lot of different tech platforms; adept workers, but had never heard of Doodle* (an online scheduling tool) and I was baffled by it." -Program Leader
+> "We have technically limited staff. **(**Who**)** don’t know a lot of different tech platforms; adept workers, but had never heard of Doodle* (an online scheduling tool) *and I was baffled by it."* *-Program Leader*
 
-> "I get a question every day. It’s ‘how do I print?’ Or ‘how do I get on the intranet?" -Program Staff
+> "I get a question every day. It's ‘how do I print?’ Or ‘how do I get on the intranet?" *-Program Staff*
 
 **Fear of Change**
 
-> "There are a lot of things difficult to navigate for (staff) who (are) already resistant to technology." -Program Staff
+>"There are a lot of things difficult to navigate for (staff) who (are) already resistant to technology." *-Program Staff*
 
 **VPN is too Restrictive**
 
-> "If you access the system through your phone your access is limited… can’t access policies or connect internally to our system… it’s a huge issue to me. “-Program Staff
+> "If you access the system through your phone your access is limited… can’t access policies or connect internally to our system... it’s a huge issue to me. *"-Program Staff*
 
-> "I would love to see VPN go away–or not being pushed offline. I spent half of the day at home trying and I can’t get on and I have wi-fi." -Program Staff*
+> "I would love to see VPN go away–or not being pushed offline. I spent half of the day at home trying and I can’t get on and I have wi-fi." *-Program Staff*
 
-> "(HSA Staff) have a hard time getting access outside of the building. The VPN drops off. We have access issues.We don’t have a lot of control over it “ -Program Leader
+> "(HSA Staff) have a hard time getting access outside of the building. The VPN drops off. We have access issues.We don't have a lot of control over it *"-Program Leader*
 
 **Community Based Organization (CBOs) Needs**
 
@@ -197,7 +196,8 @@ At a community forum held at the San Francisco Public Library, 12 representative
 * Report adult and child abuse
 * Find community resources (ie: other websites)
 * Learn about changes to contracts that might affect them
-* Keep up-to-date with resources information (eg: mybenefitcalwin.org: -applications, -status check, -recertification)
+* Keep up-to-date with resources information
+(eg: mybenefitcalwin.org: -applications, -status check, -recertification)
 * Look up phone numbers
 
 * * *
@@ -208,15 +208,15 @@ At a community forum held at the San Francisco Public Library, 12 representative
 
 Ideally, website content is managed by HSA individual Programs. A dedicated content owner from each team is trained, then tasked with updating and publishing content. In countless interviews we heard from leadership and staff that once a content owner leaves the role, the responsibility becomes vacant. The task defaults back to IT, who is not familiar with program content.
 
-> "The website needs to be in sync with the agency. Someone in a division takes care of the website and another person can be the point person for updates. Example: an HSA Program calls the division and says we have this going on. The point person would be the main contact to edit, update and craft the message." –Executive Staff
+> "The website needs to be in sync with the agency. Someone in a division takes care of the website and another person can be the point person for updates. Example: an HSA Program calls the division and says we have this going on. The point person would be the main contact to edit, update and craft the message." *–Executive Staff*
 
-> "Related to (website) maintenance; staff gets trained, then they forget how to use it. We may need a new model."- Executive Leadership
+> "Related to (website) maintenance; staff gets trained, then they forget how to use it. We may need a new model."- *Executive Leadership*
 
 **Lack of Streamlined Processes for Tech Decisions**
 
 Programs hire outside vendors to create mini-sites. More often than not, IT only becomes aware of the sites when the vendor’s contract expire, forcing IT to maintain it.
 
-> "There needs to be a better system of how we allocate tech resources. Making decisions on when to go out (to a vendor) or what to do… We have been saying that the website needs to change but there in no imperative on an Agency level… Where does this fit with what we do and how can be more effective?" -DAAS Leadership
+> "There needs to be a better system of how we allocate tech resources. Making decisions on when to go out (to a vendor) or what to do… We have been saying that the website needs to change but there in no imperative on an Agency level… Where does this fit with what we do and how can be more effective?" *-DAAS Leadership*
 
 **Lack of a Digital Strategy**
 
@@ -224,4 +224,4 @@ Organizationally, there is no cohesion in approaching content creation and messa
 
 ### What it Matters
 
-HSA is a central resource for public assistance in the city. Sfhsa.org is the main online portal to Agency services for vulnerable clients. An ineffective, dated, broken website adds stress, frustration, and anxiety to clients already in states of distress. This can lead to a flood of calls to the Agency and foot traffic in its lobbies.
+HSA  is a central resource for public assistance in the city. Sfhsa.org is the main online portal to Agency services for vulnerable clients. An ineffective, dated, broken website adds stress, frustration, and anxiety to clients already in states of distress. This can lead to a flood of calls to the Agency and foot traffic in its lobbies.
