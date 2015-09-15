@@ -5,88 +5,78 @@ permalink: /recommendations/
 ---
 
 <ul id="mydiv" class="menu menu-fixed">
-<li><a href="#">Recommendations</a></li>
-<li><a href="#">Project Plan</a></li>
-<li><a href="#">Next Steps</a></li>
-<li><a href="#">Work Completed to Date</a></li>
-<li><a href="#">Additional Work</a></li>
-<li><a href="#">Further Reading</a></li>
+<li><a href="#recommendations">Recommendations</a></li>
+<li><a href="#project-plan">Project Plan</a></li>
+<li><a href="#next-steps">Next Steps</a></li>
+<li><a href="#work-completed">Work Completed to Date</a></li>
+<li><a href="#additional-work">Additional Work</a></li>
+<li><a href="#further-reading">Further Reading</a></li>
 
 </ul>
 
-**[Recommendations](#bookmark=id.5aiwnmts6u1b)**
+**[Recommendations](#recommendations)**
 
-* [The New Website: Information, Resources, Tools—Not Transactions](#bookmark=id.fd2pfa4035ex)
-* [Core Requirements for New HSA Website ](#bookmark=id.z6wdn6mufi93)[Needs](#bookmark=id.z6wdn6mufi93)
-* [Website "Product Ownership" Resides in the PIO office ](#bookmark=kix.fo4cvaaa1kqn)
-* [Fund 2-3+ New Staff Positions](#bookmark=id.tl767v9wzxa2)
-* [Empower Content Administrators Acros](#bookmark=id.v0sgb4n9stu1)[s ](#bookmark=id.v0sgb4n9stu1)[across HSA with Sustainable Training Solutions](#bookmark=id.v0sgb4n9stu1)
-* [Take advantage of The San Francisco Department of Technology’s (DT) Forthcoming Design Pattern Library](#bookmark=id.rxq05zrn57za)
-* [Adopt DT’s Citywide Drupal Infrastructure (but not yet)](#bookmark=id.5dk5qy3oaf5m)
-* [Build HSA’s Website on the Drupal Platform](#bookmark=id.jkbdervz9cs)
-* [Host HSA’s Website the Cloud](#bookmark=id.sjqk1rdia435)
-* [Focused Investments in the Current Website While Rebuilding a New Website](#bookmark=id.sjflgd2q3osk)
-* [Adopting an Agile Approach](#bookmark=id.uw37x7qt71ew)
+* [The New Website: Information, Resources, Tools—Not Transactions](#new-website)
+* [Core Requirements for New HSA Website ](#core-requirements)
+* [Website "Product Ownership" Resides in the PIO office ](#product-ownership)
+* [Fund 2-3+ New Staff Positions](#new-staff)
+* [Empower Content Administrators Across HSA with Sustainable Training Solutions](#administrators)
+* [Take advantage of The San Francisco Department of Technology’s (DT) Forthcoming Design Pattern Library](#pattern-library)
+* [Adopt DT’s Citywide Drupal Infrastructure (but not yet)](#drupal-infrastructure)
+* [Build HSA’s Website on the Drupal Platform](#drupal-platform)
+* [Host HSA’s Website the Cloud](#host-cloud)
+* [Focused Investments in the Current Website While Rebuilding a New Website](#focused-investments)
+* [Adopting an Agile Approach](#agile-approach)
 
-**[Project Plan](#bookmark=id.5aiwnmts6u1b)**
+**[Project Plan](#project-plan)**
 
 * Proposed Phased Project plan w/ estimated timeline and cost to launch new HSA website, based on the recommendations made here.
 
-**[Next Steps](#bookmark=id.9yt7atu4s1me)**
+**[Next Steps](#next-steps)**
 
 * Write an RFP
 * Optionally meet with DT
 
-**[Work Completed to Date](#bookmark=id.zgg9m93fangk)**
+**[Work Completed to Date](#work-completed)**
 
 * Draft Wireframes for the New HSA Website
 * Other technical work completed during current engagement with Exygy
 
-**[Additional Work Completed During Current Engagement with Exygy](#bookmark=id.flm4tznhuuqx)**
+**[Additional Work Completed During Current Engagement with Exygy](#additional-work)**
 
-**[Further Reading](#bookmark=id.wuraltl11t8g)**
+**[Further Reading](#further-reading)**
 
-* [What is a Pattern Library?](#bookmark=id.30fkapcwhdiz)
-* [Comparable Sites built in Open Source CMS](#bookmark=id.hgoiv7ot2nv)
-* [Why do a Content Audit? ](#bookmark=id.m9ofeqb7ajc5)
-* [Example RFPs](#bookmark=id.so8xac4da7ls)
+* [What is a Pattern Library?](#what is-a-pattern-library)
+* [Comparable Sites built in Open Source CMS](#comparable-sites)
+* [Why do a Content Audit? ](#why- audit)
+* [Example RFPs](#example-rfps)
 
 * * *
 
-## Recommendations
+## <a name="recommendations"></a>Recommendations
 
-**Core requirements for New HSA Website Needs**
+### <a name="core-requirements"></a>Core requirements for New HSA Website Needs
 
 Our three-month qualitative and quantitative research brought to light several of sfhsa.org’s challenges and needs. Based on the synthesis of the findings, we recommend a number of steps that can be taken to build a strong foundation for the public facing website. This section details core requirements that will better the functionality of the website and strategies that can be implemented to improve how content is developed, organized and shared online. 
 
 In summary the new site must be:
 
 * User-Centered
-
 * 508-Compliant
-
 * Responsive
-
 * Multilingual
-
 * Built with powerful and effective Search in mind, far superior to the current site.
-
 * Anchored in an actionable and sustainable Content Strategy
-
 * Marketed via an effective Social Media Strategy
-
 * Built with Website Transparency in mind
-
 * Incorporates Feedback Loops
-
 * Shareable
 
 A detailed analysis of each of these recommendations is found in *[HSA-Core Requirements for New Website SFHSA Websit*e](https://docs.google.com/document/d/1X0QY7byN9IsqXZ9FWzYvsVqXL0z_tQayIAXHflWyoHk/edit?usp=sharing).
 
 * * *
 
-
-## The New Website: Information, Knowledge, Resources, Tools- not Transactions
+## <a name="new-website"></a>The New Website: Information, Knowledge, Resources, Tools- not Transactions
 
 We are recommending that the new website is an informational content platform. The website should curate set of experiences, enabling users to easily journey through HSA information, programs, and resources. The visitor should be able to easily discover the information she needs and find links to other digital transactional tools, which reside off the website. Many of those tools exist today and more purpose-built transactional systems may exist in the future.
 
@@ -94,7 +84,7 @@ The new website should not be a transactional system. It should not be a place w
 
 * * *
 
-## HSA Website "Product Ownership" Resides in the PIO’s Office
+## <a name="product-ownership"></a>HSA Website "Product Ownership" Resides in the PIO’s Office
 
 Content Management at HSA is broken.
 
@@ -116,18 +106,14 @@ See *[HSA Website Ownership Analysi*s](https://docs.google.com/document/d/12O60y
 
 * * *
 
-## Fund 2-3+ New Staff Positions
+## <a name="new-staff"></a>Fund 2-3+ New Staff Positions
 
 In regards to new staff and skills, we see the following Functional Skill Requirements which need to be added to the HSA team:
 
 * Content Strategy
-
 * Social Media/ Marketing
-
 * Design: User Experience/User Interface 
-
 * Web Engineering 
-
 * Data Analysis
 
 These five skills can be staffed in a variety of ways, not necessarily needing five new hires. Our most cost effective recommended staffing structure requires 2-3 new hires:
@@ -148,11 +134,11 @@ This is a lean staffing approach to the website. Staff budget permitting, additi
 
 * * *
 
-## Empower Content Administrators Across HSA with Sustainable Training Solutions
+## <a name="administrators"></a>Empower Content Administrators Across HSA with Sustainable Training Solutions
 
-*"Each program has to have their own strategy and today the frustration is in the toolset that they have to create and manage and publish the content and IT doesn’t help them."*-IT Leadership
+> "Each program has to have their own strategy and today the frustration is in the toolset that they have to create and manage and publish the content and IT doesn’t help them." -IT Leadership
 
-*"An issue is there are many Programs. The level of interest and awareness varies. Skills of staff to use basic elements is very uneven. Culture of diffusion where nothing happens."- *Executive Leadership
+> "An issue is there are many Programs. The level of interest and awareness varies. Skills of staff to use basic elements is very uneven. Culture of diffusion where nothing happens." -Executive Leadership
 
 HSA’s ability to communicate with clients has suffered because its website is not kept up to date. HSA can address this issue in the short term by choosing an easy to use content administration platform and training HSA staff to use it. Skills and knowledge will degrade if not supported with easy to access and consumable training materials.
 
@@ -160,7 +146,7 @@ We recommend that HSA budget for the creation video-based skills training for ba
 
 * * *
 
-## Take advantage of The San Francisco Department of Technology’s (DT) Forthcoming Design Pattern Library
+## <a name="pattern-library"></a>Take advantage of The San Francisco Department of Technology’s (DT) Forthcoming Design Pattern Library
 
 DT is engaged in two initiatives that have significant potential impact on HSA’s new website project. Big picture, we are recommending aligning HSA’s project plan with DT’s short term project plan for the first initiative (a design pattern library), but not creating dependencies for the successful execution of HSA’s new website on DT’s second initiative (citywide Drupal infrastructure).
 
@@ -185,7 +171,7 @@ There is also a risk that using DT’s design pattern library would make HSA’s
 
 * * *
 
-## Adapt DT’s Citywide Drupal Infrastructure (but not yet)
+## <a name="drupal-infrastructure"></a>Adapt DT’s Citywide Drupal Infrastructure (but not yet)
 
 The second DT project of significance to the HSA Website Redesign is the deployment of the Citywide Drupal Infrastructure. The envisioned deliverable from this large initiative will be a single website infrastructure for all city agencies that DT manages and supports. 
 
@@ -213,7 +199,7 @@ As mentioned above, DT has preliminarily expressed a strong desire to work with 
 
 * * *
 
-## Build HSA’s Website on the Drupal Platform
+## <a name="drupal-platform"></a>Build HSA’s Website on the Drupal Platform
 
 We evaluated the two most common Open Source Content Management Platforms, WordPress and Drupal, against going with a Microsoft or ColdFusion system. We had a bias towards the open source solutions because government generally and CCSF specifically are moving quickly towards these solutions. We have used them successfully ourselves with many clients. We saw an advantage to Microsoft or ColdFusion systems - namely that HSA has internal staff that is adept with these technologies - and we felt it was therefore important to check our bias.
 
@@ -231,7 +217,7 @@ Note however that the choice of using DT’s pattern library makes a future migr
 
 * * *
 
-## Host HSA’s Website the Cloud
+## <a name="host-cloud"></a>Host HSA’s Website the Cloud
 
 A significant advantage of using widely supported Open Source Content Management Systems like Drupal and WordPress is the wide availability of managed/enterprise hosting solutions that are purpose built for these technologies. **These services are scalable, secure and cost effective. **They also serve the function of reducing support requirements for IT staff, because the services all provide first level technical support. Some of the services include automatic security upgrades. 
 
@@ -243,7 +229,7 @@ We have spent time talking with IT staff including Robert Eickwort, Nathalie Tol
 
 * * *
 
-## Focused Investments in the Current Website While Rebuilding a New Website
+## <a name="focused-investments"></a>Focused Investments in the Current Website While Rebuilding a New Website
 
 The current sfhsa.org site will be turned off when the new website is ready. As such, we do not want to recommend that HSA make any significant investments into the current site. However, we see opportunities to make two types of investments into the current site:
 
@@ -261,7 +247,7 @@ See* **[HSA-Short Term Investments in Current Websit*e](https://docs.google.com/
 
 * * *
 
-## Adopting an Agile Approach
+## <a name="agile-approach"></a>Adopting an Agile Approach
 
 It’s no mistake that most innovative technology companies in Silicon Valley adhere to an Agile development methodology. Agile, an iterative development methodology, promotes early delivery, continuous improvement and encourages rapid and flexible response to change. Cross disciplinary teams are encouraged. **Agile would allow HSA to quickly identify and develop prototypes and minimum viable products (MVPs) and gather user feedback during the development process for every new product and service HSA develops. **The results will be better, user-centered products and services, delivered more rapidly. An Agile methodology enables HSA to deliver services in a cost-effective way, identifying and pivoting away from mistakes early, rather than building on them.
 
@@ -294,7 +280,7 @@ We suggest that HSA consider Agile training, first for IT leadership and then fo
 
 * * *
 
-## Project Plan
+## <a name="project-plan"></a>Project Plan
 
 **Proposed phased project plan with estimated timeline, cost to launch and maintain a new HSA website, based on the recommendations made here.**
 
@@ -314,7 +300,7 @@ Here is a visual summary of our proposed project plan:
 
 * * *
 
-## Next Steps
+## <a name="next-steps"></a>Next Steps
 
 Immediate next steps to move forward with project plan are:
 
@@ -328,7 +314,7 @@ In parallel, Exygy recommends that HSA leadership connect with DT leadership to 
 
 * * *
 
-## Work Completed to Date
+## <a name="work-completed"></a>Work Completed to Date
 
 **Draft Wireframes for New HSA Website**
 
@@ -370,7 +356,7 @@ This page gives the user an overview on using the services of that program from 
 
 * * *
 
-## Additional Work Completed During Current Engagement with Exygy
+## <a name="additional-work"></a>Additional Work Completed During Current Engagement with Exygy
 
 As part of our research work, we put a number of tools in place and ran some experiments that better place HSA to understand how visitors are using the site. 
 
@@ -390,9 +376,9 @@ Work completed to date includes:
 
 * * *
 
-## Further Reading
+## <a name="further-reading"></a>Further Reading
 
-**What is a Pattern Library?**
+### <a name="what-is-a-pattern-library"></a>What is a Pattern Library?
 
 A pattern library represents a standard set of web components and patterns that have been designed and built through user testing and accessibility testing. Items that may be included in a pattern library include: page templates, typography, layout, color, and buttons. All patterns in a single library are built to guide a consistent look and feel throughout a website. A pattern library meets front-end coding guidelines specific to that library. As a result, all patterns in a library should function well together. Pattern libraries are not written in stone and can be improved upon as an organization aims to build and craft a unified web experience. As pattern libraries evolve and improve, all sites leveraging them across an organization improve, and stay in lock step together with a unified brand and visual language.
 
@@ -428,7 +414,7 @@ A pattern library represents a standard set of web components and patterns that 
 
 * * *
 
-## Comparable Sites Built in Open Source Content Management Systems (CMS)
+## <a name="comparable-sites"></a>Comparable Sites Built in Open Source Content Management Systems (CMS)
 
 HSA should feel confident in its choice to use widely supported Open Source Content Management Systems. Both systems seriously considered for this report (Drupal and WordPress) are widely adopted by large organizations that depend on scalable and secure websites. Many other government agencies at the city, state, and federal level are using Drupal and WordPress. 
 
@@ -462,7 +448,7 @@ Wordpress Sites:
 
 * * *
 
-## Why do a Content Audit?
+## <a name="why-audit"></a>Why do a Content Audit?
 
 Why do a Content Audit and redesign Information Architecture and UX? There is an opportunity to step back and say: what is the most important content we provide to visitors? How can we provide better ways to access it through browse, search, and discovery? What content is important but currently buried and not being used? Our quantitative research into SFHSA.org revealed that Google has indexed 3,346 pages on the site.
 
@@ -482,7 +468,7 @@ In the last year:
 
 * * *
 
-## Example RFPs
+## <a name="example-rfps"></a>Example RFPs
 
 Here is a curated set of RFPs from CCSF and beyond, for HSA to use as a foundation for writing an RFP for the new website project:
 
