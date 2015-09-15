@@ -203,7 +203,7 @@ We evaluated the two most common Open Source Content Management Platforms, WordP
 
 Our evaluation makes clear that WordPress or Drupal is the right choice for HSA. You can see our detailed evaluation in *[HSA Wordpress vs. Drupal](https://docs.google.com/spreadsheets/d/1OOVT4f9uOWHg5h5G8J8jjQaJ0773cxVncQFtlHsbJaE/edit?usp=sharing)*.
 
-![image alt text](image_0.png)
+<img src="{{ "/images/rec-1.png" | prepend: site.baseurl }}">
 
 We also evaluated WordPress vs Drupal. We were more unbiased in this evaluation, as we use both WordPress and Drupal at Exygy.
 
@@ -294,7 +294,7 @@ We estimate ongoing costs of ~$75k/yr, including $1,000/mo in hosting, $1,000/mo
 
 Here is a visual summary of our proposed project plan:
 
-![image alt text](image_1.png)
+<img src="{{ "/images/rec-2.png" | prepend: site.baseurl }}">
 
 * * *
 
@@ -322,7 +322,7 @@ These are drafts and should be considered a good starting point. HSA should cons
 
 **Navigate by Program Topic: Option 1 for the Homepage** ([pdf](https://drive.google.com/open?id=0B0_JG-Zogp1oeXlBRHQyRVIzbVk))
 
-![image alt text](image_2.png)
+<img src="{{ "/images/rec-3.png" | prepend: site.baseurl }}">
 
 The above layout highlights searching by topic of services that a user may need.  
 
@@ -330,7 +330,7 @@ Navigating the page: the first thing the user is directed to is a contextual sea
 
 **Navigate by Audience: Option 2 for the Homepage** ([pdf](https://drive.google.com/open?id=0B0_JG-Zogp1oX1FJcHJTODl2X2s))
 
-![image alt text](image_3.png)
+<img src="{{ "/images/rec-4.png" | prepend: site.baseurl }}">
 
 The above layout highlights searching for programs by the audience population the services are intended to reach. 
 
@@ -338,7 +338,7 @@ The primary section on the page displays photographs of diverse people represent
 
 **Program Category Page: Secondary Page** ([pdf](https://drive.google.com/open?id=0B0_JG-Zogp1oUkk4bGkxTmRlZE0))
 
-![image alt text](image_4.png)
+<img src="{{ "/images/rec-5.png" | prepend: site.baseurl }}">
 
 Each Program Category Page acts as an umbrella page showing all the programs that fall under that topic. 
 
@@ -346,7 +346,7 @@ Each Program on this page has a short description and a link to a Specific Progr
 
 **Specific Program Page: Tertiary Page** ([pdf](https://drive.google.com/open?id=0B0_JG-Zogp1oMG83X1phLUxaeE0))
 
-![image alt text](image_5.png)
+<img src="{{ "/images/rec-6.png" | prepend: site.baseurl }}">
 
 A Specific Program Page contains an overview about one individual program.
 
@@ -484,5 +484,5 @@ Here is a curated set of RFPs from CCSF and beyond, for HSA to use as a foundati
 
 To help understand the options for collaborating with DT, and finding an optimal choice for HSA, we created the following decision tree:
 
-![image alt text](image_6.png)
+<img src="{{ "/images/rec-7.png" | prepend: site.baseurl }}">
 

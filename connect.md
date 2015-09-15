@@ -307,6 +307,8 @@ The Federal SocialGov Community unites almost 1000 digital managers and speciali
 
 A comparative analysis of sfhsa.org was done alongside the websites from four Human Service organization located regional in other California counties (Santa Clara, Ventura, Riverside, San Bernardino) in addition to websites representing some of the best digital practices across the country in New York City’s Human Resources Agency website and outside the Unites States with Gov.uk in England.
 
+<img src="{{ "/images/dots.jpg" | prepend: site.baseurl }}">
+
 ### What it Means
 
 Best practices for digital social services were found in three areas.

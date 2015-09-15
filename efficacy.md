@@ -61,6 +61,8 @@ Develop a new website design that is responsive, with an adaptive layout that ad
 
 Visiting New York City’s Human Services [website](http://www1.nyc.gov/site/hra/index.page) on a computer or a phone users are presented with different layouts. The computer layout shows larger images and more content to navigate, while the mobile view displays smaller images in addition to a layout that is more simple and prioritizes a limited number of links and navigational paths.
 
+<img src="{{ "/images/eff-0.jpg" | prepend: site.baseurl }}">
+
 ### On-site Search Used 261 times of 31,000 Sessions
 
 #### Why It Matters:
@@ -75,11 +77,11 @@ Update website user experience and design to make search functionality more appa
 
 We entered a search for the term "San Francisco Food Assistance" in the sfhsa.org search bar and on Google. The top five results from the sfhsa.org search bar did not include any programs from the agency. On Google, HSA appeared in the top three results.
 
-![image alt text](image_0.png)
+<img src="{{ "/images/eff-1.png" | prepend: site.baseurl }}">
 
 *Search results from sfhsa.org*
 
-![image alt text](image_1.png)
+<img src="{{ "/images/eff-2.png" | prepend: site.baseurl }}">
 
 *Search results from Google.*
 
