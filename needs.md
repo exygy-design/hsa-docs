@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Immediate Website Needs
-permalink: /needs/
+title: Core Requirements for New HSA Website
+permalink: /requirements/
 ---
 
 <ul id="mydiv" class="menu menu-fixed">
@@ -20,7 +20,7 @@ permalink: /needs/
 
 ## <a name="intro"></a>Intro
 
-*The website is not suiting the Agency or client needs. What can we do to fix it?*
+> The website is not suiting the Agency or client needs. What can we do to fix it?
 
 Our three-month qualitative and quantitative research brought to light several of sfhsa.org’s challenges and needs. Based on the synthesis of the findings, we recommend a number of steps that can be taken to build a strong foundation for the public facing website. This section details core requirements that will better the functionality of the website and strategies that can be implemented to improve how content is developed, organized and shared online.
 
