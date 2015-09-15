@@ -43,7 +43,7 @@ Users are finding their way to many pages of the website (a good thing), but it 
 #### How To Fix It:
 
 Enhance the availability and design of content regardless of how users enter the website. Refine all content pages to act as traditional landing pages that contain all the information needed about their topic. 
-See [HSA Recommendations and Next Steps](https://docs.google.com/document/d/1_dGx7mEOc0AjDD_RiLr2MSUNVYHci8Vkp-KqwakhtKw/edit#bookmark=id.lehigt78w9z2) for Draft Wireframes.
+See [HSA Recommendations and Next Steps](../recommendations) for Draft Wireframes.
 
 ### 45% of Visits are from Mobile Devices
 

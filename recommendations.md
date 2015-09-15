@@ -72,7 +72,7 @@ In summary the new site must be:
 * Incorporates Feedback Loops
 * Shareable
 
-A detailed analysis of each of these recommendations is found in *[HSA-Core Requirements for New Website SFHSA Websit*e](https://docs.google.com/document/d/1X0QY7byN9IsqXZ9FWzYvsVqXL0z_tQayIAXHflWyoHk/edit?usp=sharing).
+A detailed analysis of each of these recommendations is found in [HSA-Core Requirements for New Website SFHSA Website](../requirements).
 
 * * *
 
@@ -102,7 +102,7 @@ The new Website Product Owner role is an important one. We believe it could resi
 
 Based on HSA staff interviews and our understanding of the website needs, we developed three scenarios for website content and maintenance. In the document linked below we offer a detailed analysis for Website Product Owner as well as for supporting teams and roles.
 
-See *[HSA Website Ownership Analysi*s](https://docs.google.com/document/d/12O60yZasUY9i-KqTge9wBnpto5Opzb7BBPiMoTRxmiU/edit?usp=sharing) for staffing and ownership options for the website.
+See [HSA Website Ownership Analysis](https://docs.google.com/document/d/12O60yZasUY9i-KqTge9wBnpto5Opzb7BBPiMoTRxmiU/edit?usp=sharing) for staffing and ownership options for the website.
 
 * * *
 
@@ -152,7 +152,7 @@ The first DT initiative of significance to HSA’s new website is the **CIO/ DT 
 
 DT’s design pattern library will provide digital design and branding language for city agencies to leverage freely. The design pattern library will be a collection of user interface design patterns. Providing digital pattern libraries follows a trend across government: Oakland is currently working on a design pattern library, and Gov.UK been deploying its design pattern library across the UK for some time.
 
-For an overview regarding "pattern libraries" please see “[What is a Pattern Library?](#bookmark=id.30fkapcwhdiz)” .
+For an overview regarding "pattern libraries" please see “[What is a Pattern Library?](#what-is-a-pattern-library)” .
 Example pattern libraries are included. 
 
 For an approximation of our best understanding where the city aesthetic may go during the "pattern library" project, see [the San Francisco Business Portal](http://businessportal.sfgov.org/), a recent successful website development project.
@@ -223,7 +223,7 @@ Two examples of high quality Drupal hosting platforms are Pantheon and the Acqui
 
 Two examples of high quality WordPress hostings platforms are WPEngine and WordPress VIP. We recommend WPEngine because WordPress VIP is expensive and its feature set is unnecessary for a site of HSA’s scale.
 
-We have spent time talking with IT staff including Robert Eickwort, Nathalie Toledo, Dan Kalamaras and Crystal Chang. Everyone is happy with the recommendation to host in the cloud. Robert will rightfully want to continue to ensure we are not sending PII through the publicly managed system (see recommendation [The New Website: Information, Resources, Tools—Not Transactions](#bookmark=id.fd2pfa4035ex)).
+We have spent time talking with IT staff including Robert Eickwort, Nathalie Toledo, Dan Kalamaras and Crystal Chang. Everyone is happy with the recommendation to host in the cloud. Robert will rightfully want to continue to ensure we are not sending PII through the publicly managed system (see recommendation [The New Website: Information, Resources, Tools—Not Transactions](#new-website)).
 
 * * *
 

@@ -261,7 +261,7 @@ We’ve heard from clients, CBOs and HSA staff how difficult it is to search for
 * * *
 
 
-### **Further Reading**
+### Further Reading
 
 * Search Tools
     * Singlestop USA
@@ -273,7 +273,6 @@ We’ve heard from clients, CBOs and HSA staff how difficult it is to search for
 
 * [SMC Connect](https://www.smc-connect.org/)
     * Tool to find community services in San Mateo County
-
     * Open source
 
 * * *
@@ -324,7 +323,7 @@ Content strategy makes communication clear, expected and consistent. A strategic
 
     * Outline responsibility of content approval and publishing process to establish ownership so that content conforms to the guide and the publishing schedule.
 
-**Further Reading**
+### Further Reading
 
 * **Content Strategy Guidelines:** content creation ([source](http://alistapart.com/article/thedisciplineofcontentstrategy))
 
