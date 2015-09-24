@@ -2,24 +2,29 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 5px solid darken(#303d4d, 10%);
+    // border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
+    background-color: #303d4d;
     // Positioning context for the mobile navigation icon
     position: relative;
+    a {
+        color: #fff;
+    }    
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 20px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    color: #fff;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        // color: $grey-color-dark;
+        color: #fff;
     }
 }
 
@@ -162,7 +167,8 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: 0;
+    padding-bottom: 3rem;
 }
 
 .page-heading {
@@ -172,6 +178,10 @@
 .post-list {
     margin-left: 0;
     list-style: none;
+
+    h2 {
+        margin-bottom: 0;
+    }
 
     > li {
         margin-bottom: $spacing-unit;
@@ -262,6 +272,7 @@ hr {
     background-color: #efefef;
     padding: 1rem 1.5rem;
     margin: 0;
+    margin-top: 1rem;
 
     li {
         list-style: none;
@@ -285,6 +296,48 @@ hr {
         left: 0;  
         // width: calc(100% - 48px);
     }
+}
+
+.cover {
+    background-color: rgba(#4f7098, .6);
+    color: #fff;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+    overflow: hidden; 
+    position: relative;
+
+    &:after {
+        background-image: url(../images/cover.jpg);
+        background-size: auto;
+        background-position: center -500px;
+        background-repeat: no-repeat;
+        content: "";
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .cover-title {
+        // font-size: 2.5rem;
+        font-weight: 200;
+        margin-bottom: 0;
+    }
+
+    a {
+        color: #fff;
+    }
+
+    .wrapper {
+        overflow: visible;
+    }
+}
+
+.copy {
+    color: #ccc;
 }
 
 // .menu-mobile {
