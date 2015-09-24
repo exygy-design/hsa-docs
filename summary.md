@@ -19,14 +19,14 @@ The San Francisco Human Services Agency (HSA) is a lifeline for 23% of San Franc
 ---
 
 ## <a name="our-process"></a>Our Process
-We’ve talked to HSA representatives from The Department of Aging and Adult Services (DAAS), The Office of Early Care and Education (OECE), The Department of Human Services (DHS), including Information Technology (IT), Family and Children's Services (FCS),  Internal Affairs, and Executive Leadership. We’ve engaged HSA clients and Community Based Organizations (CBOs). More details can be found here in our understanding of the Agency’s Current Landscape.
+We’ve talked to HSA representatives from The Department of Aging and Adult Services (DAAS), The Office of Early Care and Education (OECE), The Department of Human Services (DHS), including Information Technology (IT), Family and Children's Services (FCS),  Internal Affairs, and Executive Leadership. We’ve engaged HSA clients and Community Based Organizations (CBOs). More details can be found here in our understanding of the Agency’s [Current Landscape](../current).
 
 The overwhelming response to sfhsa.org has been: 
 > “The website is not suiting the agency or client needs. What can we do to fix it?”
 
 **If effective, every webpage on sfhsa.org will be able to answer a problem someone is trying to solve.** 
 
-To understand the efficacy of the current HSA website, we utilized a combination of **quantitative** and **qualitative** metrics. Qualitative data is information about experiences that cannot be counted in numbers and is often paired with quantitative (numeric) data to show a more complete picture about a website’s use.  More detail can be found in Efficacy.
+To understand the efficacy of the current HSA website, we utilized a combination of **quantitative** and **qualitative** metrics. Qualitative data is information about experiences that cannot be counted in numbers and is often paired with quantitative (numeric) data to show a more complete picture about a website’s use.  More detail can be found in [Efficacy](../efficacy).
 
 ### Current Website Usage Data
 (metrics from August 2014–August 2015)
@@ -42,6 +42,8 @@ To understand the efficacy of the current HSA website, we utilized a combination
 ### Website User Demographic
 (metrics from July 2015–August 2015)
 
+<img src="{{ "/images/summ-graph.png" | prepend: site.baseurl }}">
+
 ### Community Forums
 We held 3 public community workshops with 47 HSA clients and 6 Community-Based Organizations (CBOs). Participants shared how they were currently using sfhsa.org, what is missing from that experience and what they would like to see in a new sfhsa.org. 
 
@@ -56,16 +58,19 @@ Make the website solution-oriented, customer-focused, and user-friendly.
 Improve collaboration: sharing information between agencies and with partners.
 
 ### Comparative Analysis
-Comparative analysis was conducted to evaluate sfhsa.org and other Human Service agencies that provide social services online. 
+Comparative analysis was conducted to evaluate sfhsa.org and other Human Service agencies that provide social services online.
+
+<img src="{{ "/images/dots.jpg" | prepend: site.baseurl }}">
 
 ---
  
 ## <a name="recommendations"></a>Recommendations
 
 ### Core Requirements
-Based on the synthesis of the findings, we recommend a number of steps that can be taken to build a strong foundation for the public facing website. Core requirements will better the functionality of the website. More detail can be found in Recommendations and Next Steps.
+Based on the synthesis of the findings, we recommend a number of steps that can be taken to build a strong foundation for the public facing website. Core requirements will better the functionality of the website. More detail can be found in [Recommendations and Next Steps](../current).
 
 The new site must be:
+
 * User-Centered
 * 508-Compliant
 * Responsive
@@ -91,18 +96,21 @@ Based on HSA staff interviews and our understanding of the website needs, we dev
 The following wireframes (sketches for improving how sfhsa.org is design) are based on the identified immediate needs of the website. (Note: These layouts are designed so that when a user enters a page from a computer the top half of each page is visible. The bottom half of each page can be viewed by vertically scrolling down the page.)
 
 **Navigate by Program Topic: Option 1 for the Homepage (pdf)**
+<img src="{{ "/images/rec-3.png" | prepend: site.baseurl }}">
 
 The above layout highlights searching by topic of services that a user may need.  
 
 When navigating the page, the first thing the user is directed to is a contextual search box that asks the question, “How can we help?”. Prominently featured below is a list of buttons that organizes program content by topic. Clicking on a topic button brings the user to a Program Category Page showing all the different programs that fall within that topic. 
 
 **Navigate by Audience: Option 2 for the Homepage (pdf)**
+<img src="{{ "/images/rec-4.png" | prepend: site.baseurl }}">
 
 The above layout highlights searching for programs by the population the services are intended to reach. 
 
 The primary section on the page displays photographs of diverse people representing the demographics that different HSA services are targeting. Clicking on the main text under a photo sends the user to a Program Category Page. Each Program Category Page displays different programs that relate to that demographic. Below the photographs, users can also navigate within each demographic category and be directed to a Specific Program Page that contains individual program content.
 
 **Program Category Page: Secondary Page (pdf)**
+<img src="{{ "/images/rec-5.png" | prepend: site.baseurl }}">
 
 Each Program Category Page acts as an umbrella page showing all the programs that fall under that topic. 
 
@@ -110,6 +118,7 @@ Each program on this page has a short description and a link to a Specific Progr
 
 
 **Specific Program Page: Tertiary Page (pdf)**
+<img src="{{ "/images/rec-6.png" | prepend: site.baseurl }}">
 
 A Specific Program Page contains an overview about one individual program.
 

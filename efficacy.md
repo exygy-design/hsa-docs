@@ -29,29 +29,35 @@ To understand the efficacy of the current HSA website, we utilized a combination
 
 Data analysis conducted through Google Analytics revealed what people are using the sfhsa.org for and how successful they are while on the website. Other factors included: what pages people were accessing, how they were utilizing search, whether they were using a mobile device or a desktop computer and how many pages they visited. By using this data, the agency can set benchmarks to start planning for the future.
 
----
+### Website User Demographic
+(metrics from July 2015–August 2015)
 
-## <a name="current-website-usage-data"></a>Current Website Usage Data
+Age identifies users by six categories: 18-24, 25-34, 35-44, 45-54, 55-64, and 65+.
+Gender identifies users as either male or female.
+
+<img src="{{ "/images/summ-graph.png" | prepend: site.baseurl }}">
+
+### <a name="current-website-usage-data"></a>Current Website Usage Data
 (metrics from August 2014–August 2015)
 
-### Only 10% of Users Enter the Website Through the Homepage
+#### **Only 10% of Users Enter the Website Through the Homepage** 
 
-#### Why It Matters:
+##### Why It Matters:
 
 Users are finding their way to many pages of the website (a good thing), but it puts an emphasis on ensuring website content is comprehensive and easy to access from any page.
 
-#### How To Fix It:
+##### How To Fix It:
 
 Enhance the availability and design of content regardless of how users enter the website. Refine all content pages to act as traditional landing pages that contain all the information needed about their topic. 
 See [HSA Recommendations and Next Steps](../recommendations) for Draft Wireframes.
 
-### 45% of Visits are from Mobile Devices
+#### **45% of Visits are from Mobile Devices**
 
-#### Why It Matters:
+##### Why It Matters:
 
 The current website is not optimized—designed to make the best use of—displaying on mobile devices. This hurts the user experience, functionality and search engine effectiveness while trying to use sfhsa.org with a smartphone.
 
-#### How To Fix It:
+##### How To Fix It:
 
 Place an emphasis on all website tools and content being accessible and easy to use regardless of device.
 
@@ -63,13 +69,13 @@ Visiting New York City’s Human Services [website](http://www1.nyc.gov/site/hra
 
 <img src="{{ "/images/eff-0.jpg" | prepend: site.baseurl }}">
 
-### On-site Search Used 261 times of 31,000 Sessions
+#### **On-site Search Used 261 times of 31,000 Sessions**
 
-#### Why It Matters:
+##### Why It Matters:
 
 While users are accustomed to using the Search Tool for items they cannot find, the current search functionality on sfhsa.org is rarely used. This indicates that users are having a hard time using the tool or are not receiving the results they are looking for.
 
-#### How to Fix it:
+##### How to Fix it:
 
 Update website user experience and design to make search functionality more apparent and accessible by using Google Search.
 
@@ -85,23 +91,23 @@ We entered a search for the term "San Francisco Food Assistance" in the sfhsa.or
 
 *Search results from Google.*
 
-### Variants of "Forms" Was the Most Popular Search with 143 of 272 Searches on sfhsa.org
+#### **Variants of "Forms" Was the Most Popular Search with 143 of 272 Searches on sfhsa.org**
 
-#### Why It Matters:
+##### Why It Matters:
 
 Users are attempting to access website information using different terms, with few obvious groupings (suggesting the search box is their "last resort"). Users search for forms the most, suggesting they were having trouble finding the right form on the website.
 
-#### How To Fix It:
+##### How To Fix It:
 
 Add a form finder functionality to an improved web presence. Increase the ease of use for search functionality (by providing quicker common answers or in-line suggestions that pop up as people are typing, similar to Google).
 
-### **66% of Users Look at One Page and Leave (Bounce Rate).**
+#### **66% of Users Look at One Page and Leave (Bounce Rate).**
 
-#### Why It Matters:
+##### Why It Matters:
 
 The bounce rate of a website describes how often users visit only one page before leaving the site without clicking on anything. The high bounce rate for sfhsa.org users means they either found immediately what they needed or couldn’t find it. An additional engagement through the site could be helpful to users in either instance.
 
-#### How To Fix It:
+##### How To Fix It:
 
 Make it easier to find applicable content and encourage accessing multiple pages when they visit any page on sfhsa.org.
 

@@ -9,8 +9,7 @@ permalink: /current/
   <li><a href="#our-process">Our Process</a></li>
   <li><a href="#current-landscape">Current Landscape</a></li>
     <ul>
-      <li><a href="#dhs-challenges">DHS & OECE challenges</a></li>
-      <li><a href="#daas-challenges">DAAS Challenges Shared with DHS & OECE</a></li>
+      <li><a href="#dhs-challenges">Challenges</a></li>
     </ul>  
   <li><a href="#needs">Needs</a></li>
     <ul>
@@ -54,7 +53,7 @@ HSA clients are as diverse as the city itself. Website accessibility is essentia
 
 * * *
 
-## <a name="dhs-challenges"></a>DHS & OECE Challenges
+## <a name="dhs-challenges"></a>Challenges
 
 ### Outreach:
 
@@ -87,10 +86,6 @@ Clients often seek face-to-face time or call to ask questions and understand the
 #### Why It Matters:
 
 HSA staffing resources are limited and an informative website can eliminate unnecessary time spent answering phone calls, emails, and reducing foot traffic to lobbies.
-
-* * *
-
-## <a name="daas-challenges"></a>DAAS Challenges also shared with DHS & OECE
 
 ### Not Meeting Government Mandates:
 

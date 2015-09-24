@@ -16,7 +16,7 @@ permalink: /recommendations/
 
 **[Recommendations](#recommendations)**
 
-* [The New Website: Information, Resources, Tools—Not Transactions](#new-website)
+* [The New Website: Information, Resources, Tools—Not Transactions (Yet)](#new-website)
 * [Core Requirements for New HSA Website ](#core-requirements)
 * [Website "Product Ownership" Resides in the PIO office ](#product-ownership)
 * [Fund 2-3+ New Staff Positions](#new-staff)
@@ -78,7 +78,7 @@ A detailed analysis of each of these recommendations is found in [HSA-Core Requi
 
 ### <a name="new-website"></a>The New Website: Information, Knowledge, Resources, Tools- not Transactions
 
-We are recommending that the new website is an informational content platform. The website should curate set of experiences, enabling users to easily journey through HSA information, programs, and resources. The visitor should be able to easily discover the information she needs and find links to other digital transactional tools, which reside off the website. Many of those tools exist today and more purpose-built transactional systems may exist in the future.
+We are recommending that the new website is an **informational content platform** with an eye towards creating transactions in the future (allowing clients and others to complete tasks through sfhsa.org). The website should curate set of experiences, enabling users to easily journey through HSA information, programs, and resources. The visitor should be able to easily discover the information she needs and find links to other digital transactional tools, which reside off the website. Many of those tools exist today and more purpose-built transactional systems may exist in the future.
 
 The new website should not be a transactional system. It should not be a place where personally identifiable information lives. The new website is not a suite of digital applications, but rather the site will provide many jumping off points to digital transactional applications within and beyond sfhsa.org.
 
