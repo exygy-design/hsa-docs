@@ -18,7 +18,7 @@ permalink: /recommendations/
 
 * [The New Website: Information, Resources, Tools—Not Transactions (Yet)](#new-website)
 * [Core Requirements for New HSA Website ](#core-requirements)
-* [Website "Product Ownership" Resides in the PIO office ](#product-ownership)
+* [Website "Product Ownership" Resides in Three Scenarios ](#product-ownership)
 * [Fund 2-3+ New Staff Positions](#new-staff)
 * [Empower Content Administrators Across HSA with Sustainable Training Solutions](#administrators)
 * [Take advantage of The San Francisco Department of Technology’s (DT) Forthcoming Design Pattern Library](#pattern-library)
@@ -57,7 +57,7 @@ permalink: /recommendations/
 
 ### <a name="core-requirements"></a>Core requirements for New HSA Website Needs
 
-Our three-month qualitative and quantitative research brought to light several of sfhsa.org’s challenges and needs. Based on the synthesis of the findings, we recommend a number of steps that can be taken to build a strong foundation for the public facing website. This section details core requirements that will better the functionality of the website and strategies that can be implemented to improve how content is developed, organized and shared online. 
+Our three-month qualitative and quantitative research brought to light several of sfhsa.org’s challenges and needs. Based on the synthesis of the findings, we recommend a number of steps that can be taken to build a strong foundation for the public facing website. This section details core requirements that will better the functionality of the website and strategies that can be implemented to improve how content is developed, organized and shared online.
 
 In summary the new site must be:
 
@@ -84,9 +84,8 @@ The new website should not be a transactional system. It should not be a place w
 
 * * *
 
-### <a name="product-ownership"></a>HSA Website "Product Ownership" Resides in the PIO’s Office
+### <a name="product-ownership"></a>HSA Website "Product Ownership" Resides in Three Scenarios
 
-Content Management at HSA is broken.
 
 > "Reddot is very difficult to understand even though they go to training; mistakes are made." —Executive Leadership
 
@@ -94,11 +93,9 @@ The current content management situation at HSA: someone gets trained to update 
 
 Sometimes, requests go to IT, other Program staff, or the Management Assistant for Planning and Budget.
 
-In the envisioned future, content management at HSA is both centralized and distributed. The website ownership is centralized into a Website Product Owner who owns website and training materials. The Website Product Owner can update any pages on the site, create new pages, change information architecture. They can also create restricted user accounts for Program officers. Program officers are given access to training materials (so they can easily learn to update the site) and to make updates to a restricted set of pages related to their program. Programs are responsible for creating and updating their own content.
+In the envisioned future, content management at HSA is centralized with close partnerships between the PIO Office, IT and Programs across all three scenarios. The website ownership is centralized into a Website Product Owner who owns website and training materials. The Website Product Owner can update any pages on the site, create new pages, change information architecture. They can also create restricted user accounts for Program officers. Program officers are given access to training materials (so they can easily learn to update the site) and to make updates to a restricted set of pages related to their program. Programs are responsible for creating and updating their own content.
 
 In the envisioned future the content management system (CMS) interface is as easy to learn as Gmail, and there are sufficient training materials to make it easy for staff to learn how to manage the website.
-
-The new Website Product Owner role is an important one. We believe it could reside either in the PIO’s office or IT. We are recommending that the role reside at the PIO’s office. This recommendation is contingent on sufficient qualified staff being hired to support the PIO and the Website Product Owner working out of the PIO’s office.
 
 Based on HSA staff interviews and our understanding of the website needs, we developed three scenarios for website content and maintenance. In the document linked below we offer a detailed analysis for Website Product Owner as well as for supporting teams and roles.
 
@@ -112,8 +109,8 @@ In regards to new staff and skills, we see the following Functional Skill Requir
 
 * Content Strategy
 * Social Media/ Marketing
-* Design: User Experience/User Interface 
-* Web Engineering 
+* Design: User Experience/User Interface
+* Web Engineering
 * Data Analysis
 
 These five skills can be staffed in a variety of ways, not necessarily needing five new hires. Our most cost effective recommended staffing structure requires 2-3 new hires:
@@ -123,7 +120,7 @@ These five skills can be staffed in a variety of ways, not necessarily needing f
 * Social Media/Marketing
 * Data Analysis
 
-2. **Designer** with a deep understanding of User Experience (UX), translating user needs goals, and behaviors into a elegant User Interface (UI). The role can provide value on the PIO team and, depending on the staffing scenario, across IT projects. 
+2. **Designer** with a deep understanding of User Experience (UX), translating user needs goals, and behaviors into a elegant User Interface (UI). The role can provide value on the PIO team and, depending on the staffing scenario, across IT projects.
 
 3. **Engineer**. Staff or Vendor. Also possible that DT provides Web Engineering resources through DT staff or contractors.
 
@@ -147,16 +144,16 @@ We recommend that HSA budget for the creation video-based skills training for ba
 
 DT is engaged in two initiatives that have significant potential impact on HSA’s new website project. Big picture, we are recommending aligning HSA’s project plan with DT’s short term project plan for the first initiative (a design pattern library), but not creating dependencies for the successful execution of HSA’s new website on DT’s second initiative (citywide Drupal infrastructure).
 
-The first DT initiative of significance to HSA’s new website is the **CIO/ DT website.** The RFP for this project is [here](https://drive.google.com/file/d/0B7bfzJLtApgBbmJQV0lFbTRJRms/view?usp=sharing). The primary deliverable of this project relevant to HSA is not the CIO/DT website itself, but rather a high quality design pattern library that DT will be supporting and providing to city agencies freely. This project is currently in at RFP and the start date is "Start ASAP". The project is a high priority for DT’s top leadership. Exygy’s best guess is that the expected timeline for the design pattern library is 6 months from today (March 15, 2016). 
+The first DT initiative of significance to HSA’s new website is the **CIO/ DT website.** The RFP for this project is [here](https://drive.google.com/file/d/0B7bfzJLtApgBbmJQV0lFbTRJRms/view?usp=sharing). The primary deliverable of this project relevant to HSA is not the CIO/DT website itself, but rather a high quality design pattern library that DT will be supporting and providing to city agencies freely. This project is currently in at RFP and the start date is "Start ASAP". The project is a high priority for DT’s top leadership. Exygy’s best guess is that the expected timeline for the design pattern library is 6 months from today (March 15, 2016).
 
 DT’s design pattern library will provide digital design and branding language for city agencies to leverage freely. The design pattern library will be a collection of user interface design patterns. Providing digital pattern libraries follows a trend across government: Oakland is currently working on a design pattern library, and Gov.UK been deploying its design pattern library across the UK for some time.
 
 For an overview regarding "pattern libraries" please see “[What is a Pattern Library?](#what-is-a-pattern-library)” .
-Example pattern libraries are included. 
+Example pattern libraries are included.
 
 For an approximation of our best understanding where the city aesthetic may go during the "pattern library" project, see [the San Francisco Business Portal](http://businessportal.sfgov.org/), a recent successful website development project.
 
-We are recommending that HSA align with DT’s design pattern library because unifying around a pattern library is a great choice for The City and County of San Francisco (CCSF) and a great choice for HSA. The development and support of the pattern library is a discrete and ongoing value DT will provide to agencies. HSA should be able to derive a high amount of value from DT’s work in a short period of time and over a long period of time. The pattern library should be easy to integrate into HSA’s website design project and we expect a reduced complexity for HSA’s project, eliminating a significant portion of UI design work and potential minor simplifications for UX design. There is a short timeline on DT dependency (estimated 6 months), and HSA can accomplish a content audit, information architecture and short term website upgrades while DT builds the pattern library. This choice should not have a major impact on the overall HSA website timeline or project plan. 
+We are recommending that HSA align with DT’s design pattern library because unifying around a pattern library is a great choice for The City and County of San Francisco (CCSF) and a great choice for HSA. The development and support of the pattern library is a discrete and ongoing value DT will provide to agencies. HSA should be able to derive a high amount of value from DT’s work in a short period of time and over a long period of time. The pattern library should be easy to integrate into HSA’s website design project and we expect a reduced complexity for HSA’s project, eliminating a significant portion of UI design work and potential minor simplifications for UX design. There is a short timeline on DT dependency (estimated 6 months), and HSA can accomplish a content audit, information architecture and short term website upgrades while DT builds the pattern library. This choice should not have a major impact on the overall HSA website timeline or project plan.
 
 Additionally, although we are not recommending that HSA integrate with DT’s second initiative (Citywide Drupal Infrastructure), aligning with DT’s pattern library now decreases the complexity of deeper integration with DT infrastructure in the future, should HSA choose to do so in the future.
 
@@ -170,7 +167,7 @@ There is also a risk that using DT’s design pattern library would make HSA’s
 
 ### <a name="drupal-infrastructure"></a>Adopt DT’s Citywide Drupal Infrastructure (but not yet)
 
-The second DT project of significance to the HSA Website Redesign is the deployment of the Citywide Drupal Infrastructure. The envisioned deliverable from this large initiative will be a single website infrastructure for all city agencies that DT manages and supports. 
+The second DT project of significance to the HSA Website Redesign is the deployment of the Citywide Drupal Infrastructure. The envisioned deliverable from this large initiative will be a single website infrastructure for all city agencies that DT manages and supports.
 
 This vision to run all (or most) city websites via a single technical infrastructure will be realized by DT in two phases:
 
@@ -216,7 +213,7 @@ Note however that the choice of using DT’s pattern library makes a future migr
 
 ### <a name="host-cloud"></a>Host HSA’s Website the Cloud
 
-A significant advantage of using widely supported Open Source Content Management Systems like Drupal and WordPress is the wide availability of managed/enterprise hosting solutions that are purpose built for these technologies. **These services are scalable, secure and cost effective.** They also serve the function of reducing support requirements for IT staff, because the services all provide first level technical support. Some of the services include automatic security upgrades. 
+A significant advantage of using widely supported Open Source Content Management Systems like Drupal and WordPress is the wide availability of managed/enterprise hosting solutions that are purpose built for these technologies. **These services are scalable, secure and cost effective.** They also serve the function of reducing support requirements for IT staff, because the services all provide first level technical support. Some of the services include automatic security upgrades.
 
 Two examples of high quality Drupal hosting platforms are Pantheon and the Acquia Cloud. We recommend using Pantheon because they are a local San Francisco company and we have had great experience working with them in the past. Other Drupal Managed/Enterprise hosts are listed on Drupal.org, here: [https://www.drupal.org/hosting/enterprise](https://www.drupal.org/hosting/enterprise).
 
@@ -238,9 +235,9 @@ The current sfhsa.org site will be turned off when the new website is ready. As 
 
 2. Investments that require very little effort and allow us to significantly improve the experience on the current site:
 
-    * Replace RedDot powered search with Google’s Custom Search Engine 
+    * Replace RedDot powered search with Google’s Custom Search Engine
 
-See **[HSA-Short Term Investments in Current Website](https://docs.google.com/document/d/1CeRCr8HnokaSsZ-kA9bG943Sx4RYHvtd0WW1HunJOzg/edit?usp=sharing)** here. 
+See **[HSA-Short Term Investments in Current Website](https://docs.google.com/document/d/1CeRCr8HnokaSsZ-kA9bG943Sx4RYHvtd0WW1HunJOzg/edit?usp=sharing)** here.
 
 * * *
 
@@ -283,9 +280,9 @@ We suggest that HSA consider Agile training, first for IT leadership and then fo
 
 See the [HSA Website Project Plan](https://docs.google.com/a/exygy.com/spreadsheets/d/1021L_LS4f87XHMdtrcaNiCfpfeyjORLLoIPCgYZHumc/edit?usp=sharing) including estimated timeline and costs.
 
-Our Estimated Timeline is for HSA’s vendor to lead the architecture, design, and development effort, launching 6 months after PO approval. 
+Our Estimated Timeline is for HSA’s vendor to lead the architecture, design, and development effort, launching 6 months after PO approval.
 
-Our Estimated Costs for the re-launch are: ~$360k in vendor costs. 
+Our Estimated Costs for the re-launch are: ~$360k in vendor costs.
 
 Budget and timeline for this initial re-launch are broken out in detail in the [HSA Website Project Plan](https://docs.google.com/a/exygy.com/spreadsheets/d/1021L_LS4f87XHMdtrcaNiCfpfeyjORLLoIPCgYZHumc/edit?usp=sharing).
 
@@ -307,7 +304,7 @@ Immediate next steps to move forward with project plan are:
 
 * Exygy to provide RFP support if desired and appropriate, within the scope of our current engagement with HSA.
 
-In parallel, Exygy recommends that HSA leadership connect with DT leadership to discuss the recommendations here and ensure both agencies are aligned on a path forward. Within the scope of our current engagement with HSA Exygy can be available to participate in this meeting, if desired and appropriate. 
+In parallel, Exygy recommends that HSA leadership connect with DT leadership to discuss the recommendations here and ensure both agencies are aligned on a path forward. Within the scope of our current engagement with HSA Exygy can be available to participate in this meeting, if desired and appropriate.
 
 * * *
 
@@ -325,13 +322,13 @@ These are drafts and should be considered a good starting point. HSA should cons
 
 The above layout highlights searching by topic of services that a user may need.  
 
-Navigating the page: the first thing the user is directed to is a contextual search box that asks the question, *"How can we help?".* Prominently featured below is a list of buttons that organizes program content by topic. Clicking on a topic button brings the user to a Program Category Page showing all the different programs that fall within that topic. 
+Navigating the page: the first thing the user is directed to is a contextual search box that asks the question, *"How can we help?".* Prominently featured below is a list of buttons that organizes program content by topic. Clicking on a topic button brings the user to a Program Category Page showing all the different programs that fall within that topic.
 
 **Navigate by Audience: Option 2 for the Homepage** ([pdf](https://drive.google.com/open?id=0B0_JG-Zogp1oX1FJcHJTODl2X2s))
 
 <img src="{{ "/images/rec-4.png" | prepend: site.baseurl }}">
 
-The above layout highlights searching for programs by the audience population the services are intended to reach. 
+The above layout highlights searching for programs by the audience population the services are intended to reach.
 
 The primary section on the page displays photographs of diverse people representing the demographics that different HSA services are targeting. Clicking on the main text under a photo sends the user to a Program Category Page. Each Program Category Page displays different programs that relate to that demographic. Below the photographs, users can also navigate within each demographic category and be directed to a Specific Program Page that contains individual program content.
 
@@ -339,7 +336,7 @@ The primary section on the page displays photographs of diverse people represent
 
 <img src="{{ "/images/rec-5.png" | prepend: site.baseurl }}">
 
-Each Program Category Page acts as an umbrella page showing all the programs that fall under that topic. 
+Each Program Category Page acts as an umbrella page showing all the programs that fall under that topic.
 
 Each Program on this page has a short description and a link to a Specific Program Page, containing a more detailed overview about the individual program.
 
@@ -355,7 +352,7 @@ This page gives the user an overview on using the services of that program from 
 
 ## <a name="additional-work"></a>Additional Work Completed During Current Engagement with Exygy
 
-As part of our research work, we put a number of tools in place and ran some experiments that better place HSA to understand how visitors are using the site. 
+As part of our research work, we put a number of tools in place and ran some experiments that better place HSA to understand how visitors are using the site.
 
 This data driven research work should be ongoing.  We recommend HSA build on this work as it engages in its Content Mapping, Information Architecture, and Content Strategy work which are the first steps of the recommended project plan.
 
@@ -413,7 +410,7 @@ A pattern library represents a standard set of web components and patterns that 
 
 ### <a name="comparable-sites"></a>Comparable Sites Built in Open Source Content Management Systems (CMS)
 
-HSA should feel confident in its choice to use widely supported Open Source Content Management Systems. Both systems seriously considered for this report (Drupal and WordPress) are widely adopted by large organizations that depend on scalable and secure websites. Many other government agencies at the city, state, and federal level are using Drupal and WordPress. 
+HSA should feel confident in its choice to use widely supported Open Source Content Management Systems. Both systems seriously considered for this report (Drupal and WordPress) are widely adopted by large organizations that depend on scalable and secure websites. Many other government agencies at the city, state, and federal level are using Drupal and WordPress.
 
 **Here are a few examples of large users of Open Source Content Management Systems:**
 
@@ -484,4 +481,3 @@ Here is a curated set of RFPs from CCSF and beyond, for HSA to use as a foundati
 To help understand the options for collaborating with DT, and finding an optimal choice for HSA, we created the following decision tree:
 
 <img src="{{ "/images/rec-7.png" | prepend: site.baseurl }}">
-
