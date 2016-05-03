@@ -347,7 +347,7 @@ For an organization like HSA, social media has many uses: to raise awareness abo
 
 > "We are meeting the people where they are and then draw them to our website to get more info or do things…it’s not about entertaining, it’s about showing how the Agency cares." -Social Media Manager, SF Public Utilities Commission (PUC)
 
-"(Residents) expect government to be available" similar to other service providers. Social media goes beyond a one way publishing stream (e.x., a press release). It provides an opportunity to connect with audiences where they are, and in a way they are learning information and engaging with content. Sharing content and engaging with the public regularly and in a consistent manner gives people a reason to visit an organization’s website, and sets expectations when engaging more fully with that organization. A lack of a clear strategy runs the risk of people posting content to the public on behalf of an organization in a way that is inappropriate or inconsistent with the organization’s message and mission.
+"(Residents) expect government to be available" similar to other service providers. Social media goes beyond a one way publishing stream (ex. a press release). It provides an opportunity to connect with audiences where they are, and in a way they are learning information and engaging with content. Sharing content and engaging with the public regularly and in a consistent manner gives people a reason to visit an organization’s website, and sets expectations when engaging more fully with that organization. A lack of a clear strategy runs the risk of people posting content to the public on behalf of an organization in a way that is inappropriate or inconsistent with the organization’s message and mission.
 
 ### How to Fix It
 

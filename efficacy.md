@@ -17,7 +17,7 @@ permalink: /efficacy/
 
 **If effective, every webpage on sfhsa.org will be able to answer a problem someone is trying to solve.**
 
-An effective public facing website for the Agency should deliver information and services to diverse users on multiple digital platforms (mobile, desktop, tablets, etc.); consistently, quickly and easily. Clients, Community Based Organizations(CBOs) and HSA staff will be able to **find** up-to-date and reliable information; **communicate** with the Agency as needed, **complete** applications; and **share** information and updates through social media.
+An effective public facing website for the Agency should deliver information and services to diverse users on multiple digital platforms (mobile, desktop, tablets, etc.) consistently, quickly and easily. Clients, Community Based Organizations(CBOs) and HSA staff will be able to **find** up-to-date and reliable information; **communicate** with the Agency as needed, **complete** applications; and **share** information and updates through social media.
 
 A successful HSA digital presence creates benchmarks to know that it is meeting user needs. Measuring if a website is successful requires knowing **how** the website is being used, **where** it is being used, **what problems users are trying to solve** and **understanding the roadblocks** on the website preventing users from accomplishing their goals.
 

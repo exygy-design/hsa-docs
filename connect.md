@@ -207,7 +207,7 @@ CBOs are an integral liaison between HSA and clients, helping with program infor
 
 ### What’s Happening in Other Places
 
-**San Francisco** **The SF Dept of the Environment** partners with community stakeholders to hold Twitter chats about various environmental topics.
+**San Francisco Department of the Environment** partners with community stakeholders to hold Twitter chats about various environmental topics.
 
 **Riverside**
 
