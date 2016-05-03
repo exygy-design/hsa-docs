@@ -93,7 +93,7 @@ In the envisioned future, content management at HSA is centralized  with close p
 Based on HSA staff interviews and our understanding of the website needs, we developed three scenarios for website content and maintenance. In the document linked below we offer a detailed analysis for Website Product Owner as well as for supporting teams and roles. More detail can be found in HSA Website Ownership Analysis.
 
 ### Wireframes
-The following wireframes (sketches for improving how sfhsa.org is design) are based on the identified immediate needs of the website. (Note: These layouts are designed so that when a user enters a page from a computer the top half of each page is visible. The bottom half of each page can be viewed by vertically scrolling down the page.)
+The following wireframes (sketches for improving how sfhsa.org is designed) are based on the identified immediate needs of the website. (Note: These layouts are designed so that when a user enters a page from a computer the top half of each page is visible. The bottom half of each page can be viewed by vertically scrolling down the page.)
 
 **Navigate by Program Topic: Option 1 for the Homepage (pdf)**
 <img src="{{ "/images/rec-3.png" | prepend: site.baseurl }}">

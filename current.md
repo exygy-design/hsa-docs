@@ -41,7 +41,7 @@ We’ve heard honest criticism from each of the above stakeholders. "*The websit
 
 ## <a name="current-landscape"></a>Current Landscape
 
-HHSA has distinct Departments, The Department of Human Services (DHS) , The Department of Aging and Adult Services (DAAS), and the Office of Early Care and Education (OECE). These Departments serve specific client populations with discrete needs. OECE’s clients may overlap with the other Departments. HSA’s public-facing website, sfhsa.org, is a funnel for all clients to find information. Beyond information, few, if any, services are provided through the website; however, links to services exist, including MyBenefits CalWIN.
+HSA has distinct Departments, The Department of Human Services (DHS), The Department of Aging and Adult Services (DAAS), and the Office of Early Care and Education (OECE). These Departments serve specific client populations with discrete needs. OECE’s clients may overlap with the other Departments. HSA’s public-facing website, sfhsa.org, is a funnel for all clients to find information. Beyond information, few, if any, services are provided through the website; however, links to services exist, including MyBenefits CalWIN.
 
 ### Goals and Objectives
 
